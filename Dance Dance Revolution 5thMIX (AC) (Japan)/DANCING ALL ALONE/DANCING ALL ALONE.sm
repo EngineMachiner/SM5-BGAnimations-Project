@@ -38,8 +38,8 @@
 144.000=KB0=1.000=0=0=1=====,
 152.000=5th001A=1.000=0=0=1=====,
 160.000=KB0=1.000=0=0=1=====,
-168.000=DANCING ALL ALONE-bg.png=1.000=0=0=1=====,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+168.000=5thBG000=1.000=0=0=1=====,
+99999=5thBG000=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 #KEYSOUNDS:;
 #ATTACKS:;
