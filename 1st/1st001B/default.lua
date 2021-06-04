@@ -21,7 +21,7 @@ local params = {
 		Zoom = 2.5,
 		Frame_l = 15,
 		Color = Color.Orange,
-		Commands = { "Color" }
+		Blend = 'add'
 	}
 
 } 

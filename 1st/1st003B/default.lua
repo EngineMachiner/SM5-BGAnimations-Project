@@ -30,6 +30,6 @@ local params = {
 } 
 
 	BGA_G.Tile( t, params[1] )
-	t[#t+1] = loadfile( params[2]["Script"])( params[2] )
+	t[#t+1] = loadfile( params[2]["Script"] )( params[2] )
 
 return Def.ActorFrame{ t }
